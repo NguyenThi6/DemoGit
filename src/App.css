@@ -1,0 +1,18 @@
+.wrapper {
+  width: 300px;
+  border: 1px solid #2196F3;
+  margin:  0 auto;
+  text-align: center;
+}
+.ho-ten {
+  color: red;
+}
+.thanh-vien-vip{
+  color: yellow;
+}
+.giohang{
+  color:red;
+}
+.table-responsive{
+  border: #2196F3;
+}
